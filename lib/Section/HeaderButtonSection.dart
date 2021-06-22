@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
+Widget verticalDiv=  VerticalDivider(thickness: 1,color: Colors.grey[300]);
 class HeaderButtionSection extends StatelessWidget{
-  Widget verticalDiv=  VerticalDivider(thickness: 1,color: Colors.grey[300]);
+
   Widget headerButton({
     String buttonText,
     IconData buttonIcon,

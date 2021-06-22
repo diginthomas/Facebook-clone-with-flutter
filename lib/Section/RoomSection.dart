@@ -3,7 +3,7 @@ import 'package:facebook_ui_clone/Widget/UserIcon.dart';
 import 'package:facebook_ui_clone/assets.dart';
 
 class RoomSection extends StatelessWidget{
-  Widget Space= VerticalDivider(thickness: 1, color: Colors.white,);
+  Widget space= VerticalDivider(thickness: 1, color: Colors.white,);
   @override
   Widget build(BuildContext context) {
     return Container(
@@ -23,12 +23,12 @@ class RoomSection extends StatelessWidget{
               label: Text("Create\nRoom",style: TextStyle(
                 color: Colors.blueAccent,
               ),)
-          ),Space,
-          UserIcon(image: Mohanlal,active: true,),Space,
-          UserIcon(image: Nivinpauly,active:true),Space,
-          UserIcon(image: Yash,active:true),Space,
-          UserIcon(image: Dhoni,active:true),Space,
-          UserIcon(image: Prithiviraj,active:true),Space,
+          ),space,
+          UserIcon(image: Mohanlal,active: true,),space,
+          UserIcon(image: Nivinpauly,active:true),space,
+          UserIcon(image: Yash,active:true),space,
+          UserIcon(image: Dhoni,active:true),space,
+          UserIcon(image: Prithiviraj,active:true),space,
           UserIcon(image: Virat,active: true),
         ],
       ),

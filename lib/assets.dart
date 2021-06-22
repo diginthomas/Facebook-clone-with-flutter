@@ -14,3 +14,11 @@ String YashStory="assets/story/yashStory.jpg";
 String PrithivirajStory="assets/story/thimo-pedersen-r0_On-3qVgM-unsplash.jpg";
 String DhoniStory="assets/story/dhoniStory.jpg";
 
+//post
+String NivinPaulyPost ="assets/post/NivinPaulypost.jpeg";
+String DhoniPost = "assets/post/Dhonipost.jpeg";
+String YashPost = "assets/post/Yashpost.jpeg";
+String ViratPost ="assets/post/Viratpost.jpeg";
+
+
+

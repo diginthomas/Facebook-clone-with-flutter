@@ -48,8 +48,6 @@ class App extends StatelessWidget {
          StorySection(),
          thickDivder,
          Post(),
-         Divider(thickness: 1,color: Colors.grey[300],),
-         Post(),
          thickDivder,
 
 
